@@ -1,4 +1,4 @@
 /env
 .pyc
-.txt
 /pycache
+/__pycache__
